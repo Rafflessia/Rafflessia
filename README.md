@@ -1,4 +1,3 @@
-<img src= "https://camo.githubusercontent.com/cf6bbb113c523ae830f9c505beb4652939f8a59c61dd2d7b613b855c72803d1b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d757261747661737461726b">
 ### Hi there, I'm Mert W. - a k a [Rafflessia] 👋
 
 - 🔭 I'm a Full Stack Developer and Graphic Designer!
@@ -8,3 +7,4 @@
 - ⚡ Fun fact: ._.
 
 <img src= "https://github-readme-stats.vercel.app/api?username=Rafflessia&&show_icons=true&title_color=b434eb&icon_color=ffffff&text_color=b434eb&bg_color=151515">
+<img src= "https://camo.githubusercontent.com/cf6bbb113c523ae830f9c505beb4652939f8a59c61dd2d7b613b855c72803d1b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d757261747661737461726b">
