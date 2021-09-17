@@ -6,7 +6,7 @@
 - 🥅 I love to play VALORANT.
 - ⚡ Fun fact: ._.
 
-<img src= "https://github-readme-stats.vercel.app/api?username=Rafflessia&&show_icons=true&title_color=b434eb&icon_color=ffffff&text_color=b434eb&bg_color=151515">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafflessia&radical&show_icons=true)
 
 <p align="left">
    <a href="https://discord.com/users/408401416919580672" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -14,6 +14,4 @@
    <a href="https://instagram.com/mertwalker3" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://github.com/Rafflessia" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafflessia&radical&show_icons=true)
 
