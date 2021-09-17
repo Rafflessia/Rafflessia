@@ -5,6 +5,8 @@
 - 👯 I have a great interest in artificial intelligence and javascript.</li>
 - 🥅 I love to play VALORANT.</li>
 - ⚡ Fun fact: ._.
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafflessia&theme=midnight-purple&show_icons=true)
 
 <p align="left">
