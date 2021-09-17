@@ -1,4 +1,4 @@
-### Hi there, I'm Mert W. - aka [Rafflessia] 👋
+### Hi there, I'm Mert W. - a k a [Rafflessia] 👋
 
 - 🔭 I'm a Full Stack Developer and Graphic Designer!
 - 🌱 I’m currently learning everything 🤣
