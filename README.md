@@ -6,4 +6,4 @@
 - 🥅 I love to play VALORANT.
 - ⚡ Fun fact: ._.
 
-<img src= "https://github-readme-stats.vercel.app/api?username=Rafflessia&&show_icons=true&title_color=b434eb&icon_color=b434eb&text_color=b434eb&bg_color=151515">
+<img src= "https://github-readme-stats.vercel.app/api?username=Rafflessia&&show_icons=true&title_color=b434eb&icon_color=ffffff&text_color=b434eb&bg_color=151515">
