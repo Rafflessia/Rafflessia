@@ -1,4 +1,4 @@
-### Hi there, I'm Mert W. - a k a [Rafflessia] 👋
+<h3 text align=center> ### Hi there, I'm Mert W. - a k a [Rafflessia] 👋 </h3>
 
 - 🔭 I'm a Full Stack Developer and Graphic Designer!
 - 🌱 I’m currently learning everything 🤣
