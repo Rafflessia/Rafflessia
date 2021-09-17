@@ -5,3 +5,5 @@
 - 👯 I have a great interest in artificial intelligence and javascript.
 - 🥅 I love to play VALORANT.
 - ⚡ Fun fact: ._.
+
+https://github-readme-stats.vercel.app/api?username=Rafflessia&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
