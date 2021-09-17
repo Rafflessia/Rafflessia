@@ -1,11 +1,11 @@
 <h3 text align=center> ### Hi there, I'm Mert W. - a k a [Rafflessia] 👋 </h3>
-
-- 🔭 I'm a Full Stack Developer and Graphic Designer!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I have a great interest in artificial intelligence and javascript.
-- 🥅 I love to play VALORANT.
-- ⚡ Fun fact: ._.
-
+<ul text align=center>
+<li>- 🔭 I'm a Full Stack Developer and Graphic Designer!</li>
+<li>- 🌱 I’m currently learning everything 🤣</li>
+<li>- 👯 I have a great interest in artificial intelligence and javascript.</li>
+<li>- 🥅 I love to play VALORANT.</li>
+<li>- ⚡ Fun fact: ._.</li>
+</ul>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafflessia&theme=midnight-purple&show_icons=true)
 
 <p align="left">
